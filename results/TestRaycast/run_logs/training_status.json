@@ -1,0 +1,56 @@
+{
+    "CharacterAgent": {
+        "checkpoints": [
+            {
+                "steps": 38543,
+                "file_path": "results\\TestRaycast\\CharacterAgent\\CharacterAgent-38543.onnx",
+                "reward": 6.1380006074905396,
+                "creation_time": 1676495789.432825,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast\\CharacterAgent\\CharacterAgent-38543.pt"
+                ]
+            },
+            {
+                "steps": 499975,
+                "file_path": "results\\TestRaycast\\CharacterAgent\\CharacterAgent-499975.onnx",
+                "reward": null,
+                "creation_time": 1676496734.534002,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast\\CharacterAgent\\CharacterAgent-499975.pt"
+                ]
+            },
+            {
+                "steps": 999995,
+                "file_path": "results\\TestRaycast\\CharacterAgent\\CharacterAgent-999995.onnx",
+                "reward": null,
+                "creation_time": 1676497726.324197,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast\\CharacterAgent\\CharacterAgent-999995.pt"
+                ]
+            },
+            {
+                "steps": 1257505,
+                "file_path": "results\\TestRaycast\\CharacterAgent\\CharacterAgent-1257505.onnx",
+                "reward": null,
+                "creation_time": 1676498258.0266826,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast\\CharacterAgent\\CharacterAgent-1257505.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1257505,
+            "file_path": "results\\TestRaycast\\CharacterAgent.onnx",
+            "reward": null,
+            "creation_time": 1676498258.0266826,
+            "auxillary_file_paths": [
+                "results\\TestRaycast\\CharacterAgent\\CharacterAgent-1257505.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

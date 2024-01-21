@@ -1,0 +1,65 @@
+{
+    "CharacterAgent": {
+        "checkpoints": [
+            {
+                "steps": 5999984,
+                "file_path": "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-5999984.onnx",
+                "reward": null,
+                "creation_time": 1676517567.4196675,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-5999984.pt"
+                ]
+            },
+            {
+                "steps": 6499973,
+                "file_path": "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-6499973.onnx",
+                "reward": 15.372000113129616,
+                "creation_time": 1676518491.069264,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-6499973.pt"
+                ]
+            },
+            {
+                "steps": 6999948,
+                "file_path": "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-6999948.onnx",
+                "reward": null,
+                "creation_time": 1676519477.1808643,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-6999948.pt"
+                ]
+            },
+            {
+                "steps": 7499946,
+                "file_path": "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-7499946.onnx",
+                "reward": null,
+                "creation_time": 1676520435.5077093,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-7499946.pt"
+                ]
+            },
+            {
+                "steps": 7838383,
+                "file_path": "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-7838383.onnx",
+                "reward": 12.00400134921074,
+                "creation_time": 1676521044.8357184,
+                "auxillary_file_paths": [
+                    "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-7838383.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7838383,
+            "file_path": "results\\TestRaycast4\\CharacterAgent.onnx",
+            "reward": 12.00400134921074,
+            "creation_time": 1676521044.8357184,
+            "auxillary_file_paths": [
+                "results\\TestRaycast4\\CharacterAgent\\CharacterAgent-7838383.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
