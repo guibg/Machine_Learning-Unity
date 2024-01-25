@@ -6,4 +6,4 @@ The player and the square spawns always in a random poisition and after the play
 I used <a href="https://unity.com/products/machine-learning-agents"> ML-Agents </a> to create an AI that learned how to play the game by using <a href="https://en.wikipedia.org/wiki/Deep_reinforcement_learning"> deep reinforcement learning </a>. When the player collects the squares it gets a ever-increasing reward based on how many squares it collected and when he loses he gets a negative reward. This encourages the player to only collect the squares in the particular order. <br> <br>
 
 This gif ilustrates the AI playing the game after the training: <br>
-<img src="game_gif.gif" width="400"/>
+<img src="game_gif.gif" width="650"/>
